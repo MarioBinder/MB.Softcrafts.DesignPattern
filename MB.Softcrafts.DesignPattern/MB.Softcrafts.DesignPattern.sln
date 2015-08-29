@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern.Strategy.Test", "MB.Softcrafts.DesignPattern.Strategy.Test\MB.Softcrafts.DesignPattern.Strategy.Test.csproj", "{D1034E96-0DEB-42AC-BF13-2A0068C00724}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{6D80AEC8-F0B2-49D5-ACE8-7ED3068ACD2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory", "Factory", "{154C74D7-D78B-4F4A-9F0D-D40BD9478182}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA635A07-BA1C-4FDD-B8D0-A2751523C78A} = {154C74D7-D78B-4F4A-9F0D-D40BD9478182}
+		{BEA232E6-ED5B-4D4A-A764-52C14938C1EA} = {154C74D7-D78B-4F4A-9F0D-D40BD9478182}
+		{E5C4FC94-9B10-47C9-B450-B7375AABDBEC} = {6D80AEC8-F0B2-49D5-ACE8-7ED3068ACD2A}
+		{D1034E96-0DEB-42AC-BF13-2A0068C00724} = {6D80AEC8-F0B2-49D5-ACE8-7ED3068ACD2A}
 	EndGlobalSection
 EndGlobal
