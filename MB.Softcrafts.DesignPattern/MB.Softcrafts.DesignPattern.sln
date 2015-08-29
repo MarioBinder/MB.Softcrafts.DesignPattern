@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern.Factory.Tests", "MB.Softcrafts.DesignPattern.Factory.Tests\MB.Softcrafts.DesignPattern.Factory.Tests.csproj", "{BEA232E6-ED5B-4D4A-A764-52C14938C1EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern.Strategy", "MB.Softcrafts.DesignPattern.Strategy\MB.Softcrafts.DesignPattern.Strategy.csproj", "{E5C4FC94-9B10-47C9-B450-B7375AABDBEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern.Strategy.Test", "MB.Softcrafts.DesignPattern.Strategy.Test\MB.Softcrafts.DesignPattern.Strategy.Test.csproj", "{D1034E96-0DEB-42AC-BF13-2A0068C00724}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BEA232E6-ED5B-4D4A-A764-52C14938C1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEA232E6-ED5B-4D4A-A764-52C14938C1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEA232E6-ED5B-4D4A-A764-52C14938C1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C4FC94-9B10-47C9-B450-B7375AABDBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C4FC94-9B10-47C9-B450-B7375AABDBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C4FC94-9B10-47C9-B450-B7375AABDBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C4FC94-9B10-47C9-B450-B7375AABDBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1034E96-0DEB-42AC-BF13-2A0068C00724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1034E96-0DEB-42AC-BF13-2A0068C00724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1034E96-0DEB-42AC-BF13-2A0068C00724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1034E96-0DEB-42AC-BF13-2A0068C00724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
