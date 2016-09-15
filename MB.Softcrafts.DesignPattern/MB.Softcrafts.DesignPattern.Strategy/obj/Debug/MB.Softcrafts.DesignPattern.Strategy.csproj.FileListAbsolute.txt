@@ -1,0 +1,5 @@
+F:\DEV\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Strategy\bin\Debug\MB.Softcrafts.DesignPattern.Strategy.dll
+F:\DEV\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Strategy\bin\Debug\MB.Softcrafts.DesignPattern.Strategy.pdb
+F:\DEV\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Strategy\obj\Debug\MB.Softcrafts.DesignPattern.Strategy.csprojResolveAssemblyReference.cache
+F:\DEV\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Strategy\obj\Debug\MB.Softcrafts.DesignPattern.Strategy.dll
+F:\DEV\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Strategy\obj\Debug\MB.Softcrafts.DesignPattern.Strategy.pdb
