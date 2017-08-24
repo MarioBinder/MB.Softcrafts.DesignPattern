@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern.State.Test", "MB.Softcrafts.DesignPattern.State.Test\MB.Softcrafts.DesignPattern.State.Test.csproj", "{DBB34875-0F5D-49A2-9A57-4198C3EBA3B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Softcrafts.DesignPattern.Singleton", "MB.Softcrafts.DesignPattern.Singleton\MB.Softcrafts.DesignPattern.Singleton.csproj", "{5B31698A-453F-4CBE-99EF-270BE8248387}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{DBB34875-0F5D-49A2-9A57-4198C3EBA3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBB34875-0F5D-49A2-9A57-4198C3EBA3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBB34875-0F5D-49A2-9A57-4198C3EBA3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B31698A-453F-4CBE-99EF-270BE8248387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B31698A-453F-4CBE-99EF-270BE8248387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B31698A-453F-4CBE-99EF-270BE8248387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B31698A-453F-4CBE-99EF-270BE8248387}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -267,6 +273,7 @@ Global
 		{0AE0AA3D-4A3B-4B7F-ACBF-EE6D4D66054F} = {E514D1C9-5A8D-431F-B8DB-52C01B472D6F}
 		{0B429665-1F8B-4491-8AC3-C8B58A0F11AF} = {C9F0047E-C3D8-4547-8FE7-FA8D1CF9DECC}
 		{DBB34875-0F5D-49A2-9A57-4198C3EBA3B1} = {C9F0047E-C3D8-4547-8FE7-FA8D1CF9DECC}
+		{5B31698A-453F-4CBE-99EF-270BE8248387} = {2239C067-95C2-432D-8ECF-934A2D2B1778}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {93DBCCAF-375C-43AE-BFCA-EC648A06695E}
