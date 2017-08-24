@@ -1,0 +1,6 @@
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State\bin\Debug\MB.Softcrafts.DesignPattern.State.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State\bin\Debug\MB.Softcrafts.DesignPattern.State.pdb
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State\obj\Debug\MB.Softcrafts.DesignPattern.State.csprojResolveAssemblyReference.cache
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State\obj\Debug\MB.Softcrafts.DesignPattern.State.csproj.CoreCompileInputs.cache
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State\obj\Debug\MB.Softcrafts.DesignPattern.State.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State\obj\Debug\MB.Softcrafts.DesignPattern.State.pdb

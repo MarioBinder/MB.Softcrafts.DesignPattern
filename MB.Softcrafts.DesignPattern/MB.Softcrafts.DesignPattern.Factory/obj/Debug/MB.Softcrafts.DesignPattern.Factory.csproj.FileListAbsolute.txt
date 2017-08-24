@@ -1,0 +1,11 @@
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory/bin/Debug/MB.Softcrafts.DesignPattern.Factory.dll
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory/bin/Debug/MB.Softcrafts.DesignPattern.Factory.pdb
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory/obj/Debug/MB.Softcrafts.DesignPattern.Factory.csproj.CoreCompileInputs.cache
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory/obj/Debug/MB.Softcrafts.DesignPattern.Factory.dll
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory/obj/Debug/MB.Softcrafts.DesignPattern.Factory.pdb
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory\bin\Debug\MB.Softcrafts.DesignPattern.Factory.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory\bin\Debug\MB.Softcrafts.DesignPattern.Factory.pdb
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory\obj\Debug\MB.Softcrafts.DesignPattern.Factory.csprojResolveAssemblyReference.cache
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory\obj\Debug\MB.Softcrafts.DesignPattern.Factory.csproj.CoreCompileInputs.cache
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory\obj\Debug\MB.Softcrafts.DesignPattern.Factory.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory\obj\Debug\MB.Softcrafts.DesignPattern.Factory.pdb

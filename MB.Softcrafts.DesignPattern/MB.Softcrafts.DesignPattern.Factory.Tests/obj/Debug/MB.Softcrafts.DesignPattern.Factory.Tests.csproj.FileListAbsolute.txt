@@ -1,0 +1,12 @@
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory.Tests/bin/Debug/MB.Softcrafts.DesignPattern.Factory.Tests.dll
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory.Tests/bin/Debug/MB.Softcrafts.DesignPattern.Factory.Tests.pdb
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory.Tests/obj/Debug/MB.Softcrafts.DesignPattern.Factory.Tests.csprojResolveAssemblyReference.cache
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory.Tests/obj/Debug/MB.Softcrafts.DesignPattern.Factory.Tests.csproj.CoreCompileInputs.cache
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory.Tests/obj/Debug/MB.Softcrafts.DesignPattern.Factory.Tests.dll
+/Users/mariobinder/Projects/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern/MB.Softcrafts.DesignPattern.Factory.Tests/obj/Debug/MB.Softcrafts.DesignPattern.Factory.Tests.pdb
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory.Tests\bin\Debug\MB.Softcrafts.DesignPattern.Factory.Tests.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory.Tests\bin\Debug\MB.Softcrafts.DesignPattern.Factory.Tests.pdb
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory.Tests\obj\Debug\MB.Softcrafts.DesignPattern.Factory.Tests.csprojResolveAssemblyReference.cache
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory.Tests\obj\Debug\MB.Softcrafts.DesignPattern.Factory.Tests.csproj.CoreCompileInputs.cache
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory.Tests\obj\Debug\MB.Softcrafts.DesignPattern.Factory.Tests.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.Factory.Tests\obj\Debug\MB.Softcrafts.DesignPattern.Factory.Tests.pdb

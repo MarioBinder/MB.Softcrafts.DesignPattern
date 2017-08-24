@@ -1,0 +1,10 @@
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\bin\Debug\MB.Softcrafts.DesignPattern.State.Test.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\bin\Debug\MB.Softcrafts.DesignPattern.State.Test.pdb
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\bin\Debug\MB.Softcrafts.DesignPattern.State.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\bin\Debug\nunit.framework.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\bin\Debug\MB.Softcrafts.DesignPattern.State.pdb
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\bin\Debug\nunit.framework.xml
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\obj\Debug\MB.Softcrafts.DesignPattern.State.Test.csprojResolveAssemblyReference.cache
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\obj\Debug\MB.Softcrafts.DesignPattern.State.Test.csproj.CoreCompileInputs.cache
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\obj\Debug\MB.Softcrafts.DesignPattern.State.Test.dll
+Z:\Projects\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern\MB.Softcrafts.DesignPattern.State.Test\obj\Debug\MB.Softcrafts.DesignPattern.State.Test.pdb
